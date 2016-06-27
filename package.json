@@ -1,6 +1,6 @@
 {
   "name": "reapp-ryd0rz-routes",
-  "version": "0.10.15",
+  "version": "0.10.16",
   "description": "helper for consistently requiring routes to filenames",
   "main": "index.js",
   "scripts": {
@@ -16,9 +16,9 @@
   "dependencies": {
     "react": "^15.1.0",
     "react-dom": "0.14.x",
-    "reapp-platform": "git+https://github.com/reapp/reapp-platform.git",
+    "reapp-ryd0rz-platform": "^1.0.0",
     "react-router": "2.4.1",
-    "reapp-object-assign": "^1.0.0"
+    "reapp-ryd0rz-object-assign": "^1.0.0"
   },
   "bugs": {
     "url": "https://github.com/reapp/reapp-route-tree/issues"
