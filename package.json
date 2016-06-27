@@ -1,0 +1,30 @@
+{
+  "name": "reapp-routes",
+  "version": "0.10.15",
+  "description": "helper for consistently requiring routes to filenames",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir . --stage=0",
+    "watch": "babel src --out-dir . --stage=0 --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/reapp/reapp-route-tree"
+  },
+  "author": "Nate Wienert",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "0.14.x",
+    "reapp-platform": "git+https://github.com/reapp/reapp-platform.git",
+    "react-router": "2.4.1",
+    "reapp-object-assign": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/reapp/reapp-route-tree/issues"
+  },
+  "homepage": "https://github.com/reapp/reapp-route-tree",
+  "devDependencies": {
+    "babel": "^5.0.0"
+  }
+}
