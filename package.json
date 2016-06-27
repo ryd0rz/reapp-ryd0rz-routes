@@ -1,5 +1,5 @@
 {
-  "name": "reapp-routes",
+  "name": "reapp-ryd0rz-routes",
   "version": "0.10.15",
   "description": "helper for consistently requiring routes to filenames",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/reapp/reapp-route-tree"
+    "url": "github.com/ryd0rz/reapp-ryd0rz-routes"
   },
   "author": "Nate Wienert",
   "license": "MIT",
